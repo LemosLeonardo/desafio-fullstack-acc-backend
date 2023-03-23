@@ -165,6 +165,7 @@ Feito isso, execute o projeto.
 - Adicionar cadastro para fornecedor Pessoa Jurídica
     - Seguir validações propostas pelo desafio
 - Aplicar camada de serviço
+- Implementar testes
 - Implementar Spring Security e exigir autenticação na API
 
 # Melhorias
