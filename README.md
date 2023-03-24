@@ -156,13 +156,13 @@ Feito isso, execute o projeto.
 | :---------- | :--------- | :---------------------------------- |
 |      `id`       | `string` |Localiza o fornecedor pelo ID e realiza sua exclusão.|
 
-# Próximos passos
+# Próximos releases
 
 - Adicionar relação empresa x fornecedor
 - Validação de campos:
     - Se campos chaves já estão sendo utilizados (cnpj, cpf, rg e email);
     - Validar se os dados de endereço fornecidos pelo front-end são consistentes
-- Adicionar cadastro para fornecedor Pessoa Jurídica
+- Adicionar cadastro para fornecedor Pessoa Física
     - Seguir validações propostas pelo desafio
 - Aplicar camada de serviço
 - Implementar testes
