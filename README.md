@@ -156,7 +156,7 @@ Feito isso, execute o projeto.
 | :---------- | :--------- | :---------------------------------- |
 |      `id`       | `string` |Localiza o fornecedor pelo ID e realiza sua exclusão.|
 
-# Próximos releases
+# Próximas releases
 
 - Adicionar relação empresa x fornecedor
 - Validação de campos:
