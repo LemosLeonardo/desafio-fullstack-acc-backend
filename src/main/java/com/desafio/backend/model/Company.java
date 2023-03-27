@@ -22,6 +22,14 @@ public class Company extends Address{
     @ManyToMany(fetch = FetchType.EAGER)
     List<VendorPJ> vendors;
 
+    public List<VendorPJ> getVendors() {
+        return vendors;
+    }
+
+    public void setVendors(List<VendorPJ> vendors) {
+        this.vendors = vendors;
+    }
+
     public String getId() {
         return id;
     }
