@@ -16,7 +16,7 @@ public class Company extends Address{
     @Column(length = 14, nullable = false, unique=true)
     private String cnpj;
 
-    @Column(length = 255, nullable = false)
+    @Column(nullable = false)
     private String nomeFantasia;
 
     @ManyToMany(fetch = FetchType.EAGER)
